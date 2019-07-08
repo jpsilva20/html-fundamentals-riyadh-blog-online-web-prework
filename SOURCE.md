@@ -7,7 +7,7 @@ SUB HEAD
 `Where A Traditional Past Meets A Modern Future.`
 
 IMAGE 1 FILE
-
+https://s3.amazonaws.com/learn-verified/columbia-logo.png
 `transit.jpg`
 
 IMAGE 1 ALT TEXT
